@@ -1,4 +1,8 @@
 # code-stylometry-UF
+
+The key dependencies are Joern and its prerequisites. Follow the instructions here to install them:
+https://joern.readthedocs.io/en/latest/installation.html
+
 **dataset_language_guesser.py**
 
 Run this within the dataset directory to generate a file containing the languages of the samples.
