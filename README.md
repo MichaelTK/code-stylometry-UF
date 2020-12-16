@@ -45,3 +45,11 @@ Use this to remove samples below a certain LoC threshold using the --lines argum
 
 Use this to remove authors who have below a threshold of number of samples. The --samples argument
 will do this.
+
+**preprocessor.py**
+
+Specify the pickle file to generate feature vectors from using --source. By default this file is assumed to be within a data/ subdirectory.
+
+**classifier_bigrams_layout_lexical.py**
+
+Perform learning and classification on the --input file generated in the previous step. By default this file will be generated in a data/train/ subdirectory, and will be called blocks.pkl.
