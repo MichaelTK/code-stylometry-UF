@@ -11,7 +11,7 @@ Run from anywhere, makes a new dataset directory with only C/C++ files.
 
 Run from anywhere, makes a new dataset directory with clones removed.
 
-**joern_function_index_generator.py**
+**joern_function_index_generator.py**\n
 **joern_function_index_generator_continue.py**
 
 generate function indices in files in dataset. If the first script crashes, use the
